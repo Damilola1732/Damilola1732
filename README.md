@@ -19,6 +19,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Damilola1732&show_icons=true&hide_border=true&theme=dark&repo=zext-mini-player)](https://github.com/https://github.com/Damilola1732/zext-mini-player)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Damilola1732&hide_border=tr
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Damilola1732&hide_border=true)
 👋
 
