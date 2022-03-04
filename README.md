@@ -1,8 +1,8 @@
 <h1>Hi There, I'm Bells! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
--I am a fellow of TIIDELab cohort 3 Lagos, I am currently working on an e-commerce platform and also learning how to be a team player.
+-I am a fellow of ALX Engineering software programme, cohort 4. I am currently working on an e-commerce platform and also learning how to be a team player.
 <br>
--I have a passion for Tech, cybersecurity, researching and learning new stuffs.
+-I have a passion for Tech, cybersecurity, researching and learning new technologies.
 <br>
 -And I'm on the path to become the greatest software engineer I can be🧙🏽‍♂️
 
