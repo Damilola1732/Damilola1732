@@ -1,5 +1,5 @@
 <h1> #Hi There, I'm Bells! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
-<img src="https://github.com/ThatDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
 </h1>
 
