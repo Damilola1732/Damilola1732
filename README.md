@@ -36,7 +36,7 @@
 
 
 <h2> Technologies 🛠️ </h2>
-<img src="https://img.icons8.com/color/344/html-5--v1.png" height="40" width="40"> <img src="https://img.icons8.com/color/344/css3.png" height="40" width="40"> <img src="https://img.icons8.com/color/344/javascript--v1.png" height="40" width="40"> <img src="https://img.icons8.com/color/344/vue-js.png" height="40" width="40"> <img src="https://img.icons8.com/color/344/react-native.png" height="40" width="40"> <img src="https://img.icons8.com/color/344/figma--v1.png" height="40" width="40">
+<img src="https://www.flaticon.com/free-icon/html-5_732212?term=html5&page=1&position=3&page=1&position=3&related_id=732212&origin=search" height="40" width="40"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="40" width="40"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="40" width="40"> <img src="https://img.icons8.com/color/344/vue-js.png" height="40" width="40"> <img src="https://img.icons8.com/color/344/react-native.png" height="40" width="40"> <img src="https://img.icons8.com/color/344/figma--v1.png" height="40" width="40">
 
 
 
