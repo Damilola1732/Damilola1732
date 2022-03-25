@@ -1,4 +1,8 @@
-<strong>About Me </strong> 💻 
+# Hi There, I'm Bells! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+
+
+
+<h2>About Me </h2> 💻 
 
 <table>
 <tr>
@@ -16,6 +20,9 @@
 </tr>
 </table>
 
+<h2> Connect with Me </h2> 🤝🏾
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#damilola1732&theme=dracula&hide_border=true)
+![image](https://user-images.githubusercontent.com/67590072/160093167-d25b2768-6d5d-4e3a-8dd4-28834e09c969.png)
+![image](https://user-images.githubusercontent.com/67590072/160093269-653a6dd4-7467-4bac-9368-b91915c93511.png)
+
 
