@@ -5,11 +5,11 @@
   <tr>
     <td valign="center">
       🎓  I am currently a fellow at the **ALX Engineering** software programme, cohort 5.
-      💻  I am currently learning **Vue JS** and also interested in **React JS**.
+      💻  I am currently learning **Vue JS** and also interested in **React JS**, and continuous Development.
       🎯  My long-term Goal is to be a **Cyber Security** Proffesional
-      💡  I also at times love to create **contents**
-      
-      # this is my daily.dev card, you can edit this accordingly
+      💡  I also at times love to create **contents**.
+
+     
     <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a>
       
       
@@ -31,4 +31,3 @@
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Damilola1732&hide_border=true)
 👋
-
