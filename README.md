@@ -1,10 +1,12 @@
+#About Me 💻 
+
 <table>
 <tr>
   <td valign="center">
     🎓 I am currently a fellow at the <strong>ALX Engineering</strong> software programme, cohort 5. <br>
-    🌱 I am currently learning **Java** and also interested in **Web Development**. <br>
-    🎯 My Goal is to Contribute to as many **open source project** as possible. <br>
-    ✨ I love to create different types of **contents**.
+    🌱  am currently learning <strong>Vue JS</strong> and also interested in <strong>React JS</strong>, and continuous Development. <br>
+    🎯 My long-term Goal is to be a <strong>Cyber Security</strong> Proffesional <br>
+    ✨ I also at times love to create <strong>contents</strong>.
 <td >
 # this is my daily.dev card
     <a href="https://app.daily.dev/Damilola1732">
