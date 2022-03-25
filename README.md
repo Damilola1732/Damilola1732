@@ -23,10 +23,13 @@
 <h2> Connect with Me 🤝🏾 </h2> 
 
 <a href="https://www.linkedin.com/in/damilola1732">
-  <img src="https://img.icons8.com/cute-clipart/344/linkedin.png" width="30" height="30">
+  <img src="https://img.icons8.com/cute-clipart/344/linkedin.png" width="70" height="70" target="_blank" >
 </a>
 <a href="https://www.twitter.com/@dammy_crae">
-  <img src="https://img.icons8.com/color/344/twitter--v2.png" width="30" height="30">
+  <img src="https://img.icons8.com/color/344/twitter--v2.png" width="70" height="70" target="_blank" >
+</a>
+<a href="https://medium.com/@damilolabells">
+  <img src="https://icons8.com/icons/set/medium">
 </a>
 
 
