@@ -1,6 +1,5 @@
-<h1> Hi There, I'm Bells! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+# Hi There, I'm Bells! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
-</h1>
 
 -I am a fellow of ALX Engineering software programme, cohort 5. I am currently working on an e-commerce platform and also learning how to be a team player.
 <br>
