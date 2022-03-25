@@ -1,9 +1,9 @@
 <table>
 <tr>
   <td valign="center">
-    🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
-    🌱 I am currently learning **Java** and also interested in **Web Development**.
-    🎯 My Goal is to Contribute to as many **open source project** as possible.
+    🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**. <br>
+    🌱 I am currently learning **Java** and also interested in **Web Development**. <br>
+    🎯 My Goal is to Contribute to as many **open source project** as possible. <br>
     ✨ I love to create different types of **contents**.
 <td >
 # this is my daily.dev card
