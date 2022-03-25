@@ -30,8 +30,15 @@
 
 
 <h2> Experience </h2>
- 👨🏽‍💻 currently working at: <img src="https://img.shields.io/badge/-.%20%20%20%20%20Digital%20agency%20%20%20%20%20%20-orange"> <br>
- 👨🏽‍💻 Interned at: <img src="https://img.shields.io/badge/-.%20%20%20%20%20TIIDELab-blue">
+<ul>
+  <li> 👨🏽‍💻 currently working at: <img src="https://img.shields.io/badge/-.%20%20%20%20%20Digital%20agency%20%20%20%20%20%20-orange"> </li>
+  <li> 👨🏽‍💻 Interned at: <img src="https://img.shields.io/badge/-.%20%20%20%20%20TIIDELab-blue"> </li>
+   <li> </li>
+   <li> </li>
+</ul>
+  
+ 
+ 
  Communities active with:
  Have played around with:
  Using the following tools:
