@@ -29,21 +29,33 @@
 
 
 
-<h2> Experience </h2>
+<h2> Experience 📈 </h2>
 <ul>
-  <li> 👨🏽‍💻 currently working at: <img src="https://img.shields.io/badge/-.%20%20%20%20%20Digital%20agency%20%20%20%20%20%20-orange"> </li>
+  <li> 👨🏽‍💻 currently working at: <img src="https://img.shields.io/badge/-.%20%20%20%20%20Digital%20agency%20%20%20%20%20%20-orange"> <img src="https://img.shields.io/badge/-.%20%20%20%20%20%20ALX%20SE-lightgrey">  </li>
   <li> 👨🏽‍💻 Interned at: <img src="https://img.shields.io/badge/-.%20%20%20%20%20TIIDELab-blue"> </li>
-   <li> </li>
-   <li> </li>
+   <li> Communities active with:</li>
+   <li> Have played around with: </li>
+  <li> Using the following tools: <img src="https://camo.githubusercontent.com/97c96464ad911fabe685e106dcf52caf1e0044915b655e02656dbcd73a7d5be9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653253230436f64652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d30303741434326636f6c6f723d323338363336266c6162656c436f6c6f723d666666666666"> <img src="https://camo.githubusercontent.com/2f4cfda3ad13edc21f4d77762d28f953af402b3fcf880d478f0df7f758b82d3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d66666666666626636f6c6f723d323338363336266c6162656c436f6c6f723d313831373137">  <img src=" https://camo.githubusercontent.com/97c96464ad911fabe685e106dcf52caf1e0044915b655e02656dbcd73a7d5be9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653253230436f64652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d30303741434326636f6c6f723d323338363336266c6162656c436f6c6f723d666666666666"></li>
+  <li> Currently learning: </li>
+  <li> For more details </li>
 </ul>
   
+   <img src=" ">
+    <img src=" ">
+     <img src=" ">
+      <img src=" ">
+      <img src=" ">
+      
+      <img src=" ">
+      <img src=" ">
+      
  
  
- Communities active with:
- Have played around with:
- Using the following tools:
- Currently learning:
- For more details
+ 
+ 
+ 
+ 
+ 
 
 
 
