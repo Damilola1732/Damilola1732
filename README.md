@@ -29,13 +29,19 @@
   <img src="https://img.icons8.com/color/344/twitter--v2.png" width="70" height="70" target="_blank" >
 </a>
 <a href="https://medium.com/@damilolabells">
-  <img src="https://icons8.com/icons/set/medium" width="70" height="70" target="_blank">
+  <img src="https://img.icons8.com/ios-glyphs/344/medium-logo.png" width="70" height="70" target="_blank">
 </a>
 
 
 
 
 <h2> Technologies 🛠️ </h2>
+<img src="https://img.icons8.com/color/344/html-5--v1.png" height="70" width="70">
+<img src="https://img.icons8.com/color/344/css3.png" height="70" width="70">
+<img src="https://img.icons8.com/color/344/javascript--v1.png" height="70" width="70">
+<img src="https://img.icons8.com/color/344/vue-js.png" height="70" width="70">
+<img src="https://img.icons8.com/color/344/react-native.png" height="70" width="70">
+<img src="https://img.icons8.com/color/344/figma--v1.png" height="70" width="70">
 
 
 
