@@ -22,7 +22,7 @@
 
 <h2> Connect with Me </h2> 🤝🏾
 
-![image](https://user-images.githubusercontent.com/67590072/160093167-d25b2768-6d5d-4e3a-8dd4-28834e09c969.png)
-![image](https://user-images.githubusercontent.com/67590072/160093269-653a6dd4-7467-4bac-9368-b91915c93511.png)
+![image](https://user-images.githubusercontent.com/67590072/160093167-d25b2768-6d5d-4e3a-8dd4-28834e09c969.png width="30")
+![image](https://user-images.githubusercontent.com/67590072/160093269-653a6dd4-7467-4bac-9368-b91915c93511.png width="30")
 
 
