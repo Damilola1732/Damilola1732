@@ -2,7 +2,7 @@
 
 
 
-<h2>About Me </h2> 💻 
+<h2>About Me  💻 </h2> 
 
 <table>
 <tr>
@@ -20,6 +20,22 @@
 </tr>
 </table>
 
-<h2> Connect with Me </h2> 🤝🏾
+<h2> Connect with Me 🤝🏾 </h2> 
 
-<a href=”https://www.linkedin.com/in/damilola1732/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/damilola1732/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Bells | LinkedIn” width=”21px”/></a>
+
+
+
+## Some of my stats :bar_chart:
+
+<img src="https://github-readme-stats.vercel.app/api?username=Damilola1732&show_icons=true&theme=radical&include_all_commits=true">
+
+<br>
+
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Damilola1732&layout=compact&count_private=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Damilola1732&show_icons=true&hide_border=true&theme=dark&repo=zext-mini-player)](https://github.com/https://github.com/Damilola1732/zext-mini-player)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Damilola1732&hide_border=true)
+👋
