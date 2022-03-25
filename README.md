@@ -30,7 +30,14 @@
 
 
 <h2> Experience </h2>
-Working at <img src="https://img.shields.io/badge/-.%20%20%20%20%20Digital%20agency%20%20%20%20%20%20-orange">
+ 👨🏽‍💻 currently working at: <img src="https://img.shields.io/badge/-.%20%20%20%20%20Digital%20agency%20%20%20%20%20%20-orange"> <br>
+ 👨🏽‍💻 Interned at: <img src="https://img.shields.io/badge/-.%20%20%20%20%20TIIDELab-blue">
+ Communities active with:
+ Have played around with:
+ Using the following tools:
+ Currently learning:
+ For more details
+
 
 
 
