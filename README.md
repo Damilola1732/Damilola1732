@@ -25,6 +25,14 @@
 <a href=”https://www.linkedin.com/in/damilola1732/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Bells | LinkedIn” width=”21px”/></a>
 
 
+<h2> Technologies 🛠️ </h2>
+
+
+
+<h2> Experience </h2>
+Working at https://img.shields.io/badge/-.%20%20%20%20%20Digital%20agency%20%20%20%20%20%20-orange
+
+
 
 ## Some of my stats :bar_chart:
 
