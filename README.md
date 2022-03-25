@@ -22,7 +22,7 @@
 
 <h2> Connect with Me 🤝🏾 </h2> 
 
-<a> href="https://www.linkedin.com/in/damilola1732">
+<a href="https://www.linkedin.com/in/damilola1732">
   <img src="https://www.flaticon.com/premium-icon/linkedin_3536505?term=linkedin&page=1&position=1&page=1&position=1&related_id=3536505&origin=search">
 </a>
 
