@@ -1,4 +1,4 @@
-#About Me 💻 
+<strong>About Me </strong> 💻 
 
 <table>
 <tr>
@@ -15,3 +15,7 @@
   </td>
 </tr>
 </table>
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#damilola1732&theme=dracula&hide_border=true)
+
