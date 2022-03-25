@@ -1,13 +1,22 @@
 # Hi There, I'm Bells! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
 
--I am a fellow of ALX Engineering software programme, cohort 5. I am currently working on an e-commerce platform and also learning how to be a team player.
-<br>
--I have a passion for Tech, cybersecurity, researching and learning new technologies.
-<br>
--And I'm on the path to become the greatest software engineer I can be🧙🏽‍♂️
+<table>
+  <tr>
+    <td valign="center">
+      🎓  I am currently a fellow at the **ALX Engineering** software programme, cohort 5.
+      💻  I am currently learning **Vue JS** and also interested in **React JS**.
+      🎯  My long-term Goal is to be a **Cyber Security** Proffesional
+      💡  I also at times love to create **contents**
+      
+      # this is my daily.dev card, you can edit this accordingly
+    <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a>
+      
+      
+    </td>
+  </tr>
+</table>
 
-<hr>
 
 ## Some of my stats :bar_chart:
 
